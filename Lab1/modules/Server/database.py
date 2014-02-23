@@ -12,7 +12,6 @@
 import random
 
 
-
 class Database(object):
     """Class containing a database implementation."""
 
